@@ -8579,8 +8579,7 @@ h6, .h6{
 .slide {
   top: 0;
   opacity: 0;
-  width: 609px;
-  height: 420px;
+  width: 100%;
   display: block;
   position: absolute;
 
